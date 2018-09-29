@@ -1,6 +1,6 @@
 # WARNING
 
-This repo is not maintained - as soon as [slackapi/hubot-slack#525] is merged, please remember to return to using the original version!
+This repo is not maintained - as soon as slackapi/hubot-slack#525 is merged, please remember to return to using the original version!
 
 # hubot-slack
 
