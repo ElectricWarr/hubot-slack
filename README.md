@@ -1,3 +1,7 @@
+# WARNING
+
+This repo is not maintained - as soon as [slackapi/hubot-slack#525] is merged, please remember to return to using the original version!
+
 # hubot-slack
 
 This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://slack.com).
